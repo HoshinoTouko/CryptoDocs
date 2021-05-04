@@ -60,7 +60,9 @@ RAY 池中，用户投入数量是 50 - 600 USDC，而社区池的投入数量�
 
 USD 可以通过 FTX 交易所中转。FTX 交易所支持 BEP2 链转账 BUSD，然后转成 USDC 到自己的 SOL 钱包。跨链费用大约 0.5 USD。
 
-以下是详细步骤
+如果没注册过 FTX 交易所，可以走我的推荐链接 https://ftx.com/#a=15853406 注册。
+
+以下是转账的详细步骤
 
 FTX 交易所选择 Deposit USD - BUSD
 
